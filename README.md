@@ -16,6 +16,9 @@ O jogo consiste em acertar a palavra recuperada aleatoriamente do arquivo (palav
 # clonar repositório
 git clone https://github.com/rafaelribeiro13/forca.git
 
+# compilar o jogo
+gcc forca.c -o forca.exe
+
 # executar o jogo
 ./forca.exe
 ```
